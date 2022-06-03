@@ -2,11 +2,22 @@
 
 ## Introduction
 
-AStory為社會故事學習的系統，主要提供特殊教育孩童學習社交行為。我負責整個專案的設計與開發。
+AStory is a social story learning system for children with autism to learn social behaviors.
+This project developed a social story learning system by using augmented reality (AR) technology to integrate children's social situations in their daily lives.
 
-## Software Used
+![](https://i.imgur.com/HneaWcY.png)
 
-採用Unity進行開發，運用Vuforia技術進行互動設計。
+## Tech Stack
+
+Unity, AR Vuforia
+
+## Tool Stack
+
+### 3D Models & Character Animation
+iClone, Character Creator
+
+### Design Tools
+Adobe Illustrator
 
 ## Practical Operation
 
